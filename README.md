@@ -1,3 +1,2 @@
-My first readme
+My first readme, alx is fun i swear 
 
-Alx is fun i swear 
